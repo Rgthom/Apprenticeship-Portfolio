@@ -17,7 +17,7 @@
 
 # Organisational Culture
 
-| Pass Criteria | Distinction Criteria |
+| Pass Criteria ✔️ | Distinction Criteria ⭐|
 | --- | --- |
 | Explains how an organisation's culture can both provide creative freedom and introduce constraints. | Explains the connection between culture and the organisation's potential for continuous improvement with both internal and external parties. |
 | Explains the mindsets that underpin organisational culture - e.g. outcome versus activity driven, collaboration versus silos, accountability, trust and empowerment and their impact on the organisation. | Assesses the difference between risk avoidance and risk acceptance and how these link to culture. |

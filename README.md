@@ -1,7 +1,7 @@
 
 ## Richard Thompson - Portfolio Professional Discussion
 
-8 Assesment Themes
+8 Assesment Themes 📊
 
 1. [Organisational Culture](#organisational-culture)
 2. [Data Ethics](#data-ethics)

@@ -88,6 +88,10 @@ messaging, email (asynchronous, low bandwidth), visualisations vs. words.
 |  | Justifies their choice of tooling and the potential impact of making an alternative choice explaining the cause and effect of making the wrong decision. |
 
 
+- K24 - The difference between Software-as-a-Service (SaaS) v bespoke v enterprise tooling and how to make an informed choice that suits each
+use case.
+
+
 
 
 

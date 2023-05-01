@@ -23,10 +23,10 @@
 | Explains the mindsets that underpin organisational culture - e.g. outcome versus activity driven, collaboration versus silos, accountability, trust and empowerment and their impact on the organisation. | Assesses the difference between risk avoidance and risk acceptance and how these link to culture. |
 
 
-- K9 - Different organisational cultures, the development frameworks utilised and how they can both complement each other and introduce
+- 🧠 K9 - Different organisational cultures, the development frameworks utilised and how they can both complement each other and introduce
 constraints on delivery.
-- K23 - The importance of continual improvement within a blameless culture.
-- S2 - Work within different organisational cultures with both internal and external parties.
+- 🧠 K23 - The importance of continual improvement within a blameless culture.
+- 🔧 S2 - Work within different organisational cultures with both internal and external parties.
 
 
 

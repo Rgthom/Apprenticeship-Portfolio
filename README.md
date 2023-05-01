@@ -1,5 +1,5 @@
 
-# Richard Thompson - Portfolio Professional Discussion
+## Richard Thompson - Portfolio Professional Discussion
 
 8 Assesment Themes
 
@@ -15,7 +15,7 @@
 <br><br><br><br>
 
 
-# Organisational Culture. 
+# Organisational Culture
 
 | Pass Criteria | Distinction Criteria |
 | --- | --- |
@@ -38,7 +38,7 @@ constraints on delivery.
 
 
 
-# Data Ethics. 
+# Data Ethics
 
 | Pass Criteria | Distinction Criteria |
 | --- | --- |
@@ -50,7 +50,7 @@ context of relevant data protection policy and legislation.
 
 <br><br>
 
-# Problem Solving. 
+# Problem Solving
 
 
 | Pass Criteria | Distinction Criteria |
@@ -63,7 +63,7 @@ context of relevant data protection policy and legislation.
 
 <br><br>
 
-# Profession in Context. 
+# Profession in Context
  | Pass Criteria | Distinction Criteria |
 | --- | --- |
 | Identifies the typical multi-disciplinary team roles and explains how they fit within the organisation and the wider digital landscape. |  |

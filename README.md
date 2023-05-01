@@ -1,6 +1,13 @@
 
 ## Richard Thompson - Portfolio Professional Discussion
 
+
+- [x] Stage 0
+- [x] Stage 1
+- [ ] Stage 2
+- [ ] Stage 3
+- [ ] Stage 4
+
 8 Assesment Themes 📊
 
 1. [Organisational Culture](#organisational-culture)
@@ -15,11 +22,7 @@
 <br><br><br><br>
 
 
-- [x] Stage 0
-- [x] Stage 1
-- [ ] Stage 2
-- [ ] Stage 3
-- [ ] Stage 4
+
 
 <br><br>
 

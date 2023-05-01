@@ -33,7 +33,7 @@ constraints on delivery.
 
 
 
-
+<br><br>
 
 
 
@@ -48,7 +48,7 @@ constraints on delivery.
 - K3 - How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the
 context of relevant data protection policy and legislation.
 
-
+<br><br>
 
 # Problem Solving. 
 
@@ -61,7 +61,7 @@ context of relevant data protection policy and legislation.
 - K6 - A range of problem-solving techniques appropriate to the task at hand, such as affinity mapping, impact maps, plan-do-check-act/Deming.
 - S21 - Application of lightweight modelling techniques, such as whiteboarding, in order to gain consensus as a team on evolving architecture.
 
-
+<br><br>
 
 # Profession in Context. 
  | Pass Criteria | Distinction Criteria |
@@ -79,7 +79,7 @@ messaging, email (asynchronous, low bandwidth), visualisations vs. words.
 - S8 - Work in agile, multi-disciplinary delivery teams, taking a flexible, collaborative and pragmatic approach to delivering tasks.
 - B4 - Is inclusive, professional and maintains a blameless culture.
 
-
+<br><br>
 
 # Tooling & Technology
 | Pass Criteria | Distinction Criteria |
@@ -94,7 +94,7 @@ use case.
 
 
 
-
+<br><br>
 
 # Continious Learning and Development
 | Pass Criteria | Distinction Criteria |
@@ -107,6 +107,8 @@ use case.
 Keep up with cutting edge.
 - B2 – Invests time and effort in their own development, recognising that technology evolves at a rapid rate.
 
+
+<br><br>
 # Peer Review
 
 | Pass Criteria | Distinction Criteria |
@@ -117,7 +119,7 @@ Keep up with cutting edge.
 - K20 – Pair/mob programming techniques and when to use each technique.
 - S13 – Engage in productive pair/mob programming.
 
-
+<br><br>
 
 
 # Communication and Knowledge Sharing

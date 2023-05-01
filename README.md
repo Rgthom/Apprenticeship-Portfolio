@@ -1,7 +1,7 @@
 
 ## Richard Thompson - Portfolio Professional Discussion
 
-Further details on preofessional discussion [here:](https://github.com/Rgthom/Apprenticeship-Portfolio/blob/main/Devops%20Portfolio%20of%20working%20examples%20.pdf)
+Further details on preofessional discussion [here](https://github.com/Rgthom/Apprenticeship-Portfolio/blob/c42422e6164ef0d90b23f9f279d41bab5c785018/Devops%20Portfolio%20of%20working%20examples%20.pdf)
 
 
 

@@ -15,6 +15,13 @@
 <br><br><br><br>
 
 
+- [x] Stage 0
+- [x] Stage 1
+- [ ] Stage 2
+- [ ] Stage 3
+- [ ] Stage 4
+
+
 # Organisational Culture
 
 | Pass Criteria ✔️ | Distinction Criteria ⭐|
@@ -45,7 +52,7 @@ constraints on delivery.
 | Identifies relevant data protection legislation and assesses its impact on the ethical use of customer data, as well as its relevance to emerging technologies, such as Artificial Intelligence and Machine Learning. |  |
 
 
-- K3: How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the
+- 🧠 K3: How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the
 context of relevant data protection policy and legislation.
 
 <br><br>

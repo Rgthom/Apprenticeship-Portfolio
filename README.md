@@ -6,7 +6,7 @@ Outline of preofessional discussion requirements [here](https://github.com/Rgtho
 Portfolio Template [here](https://github.com/Rgthom/Apprenticeship-Portfolio/blob/f85b230886ea2d86593cd1652b7495f1e2fd3782/Devops%20AM2%20Portfolio%20of%20evidence%20template%20%20(1).docx
 )
 
-
+<br>
 
 ### Timeline
 
@@ -15,6 +15,7 @@ Portfolio Template [here](https://github.com/Rgthom/Apprenticeship-Portfolio/blo
 - [ ] Stage 2 - August*
 - [ ] Stage 3 - September
 - [ ] Stage 4 - December*
+
 
   1. EPA Review
   2. EPA gateway Submission 

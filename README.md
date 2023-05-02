@@ -14,7 +14,7 @@ Portfolio Template [here](https://github.com/Rgthom/Apprenticeship-Portfolio/blo
 - [ ] Stage 3 - September
 - [ ] Stage 4 - December*
 
-* EPA Review 
+    *EPA Review 
 
 The progessional discussion will cover only 20 of the KSB's across 8 Themes. 
 

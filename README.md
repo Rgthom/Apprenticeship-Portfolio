@@ -8,11 +8,15 @@ Portfolio Template [here](https://github.com/Rgthom/Apprenticeship-Portfolio/blo
 
 
 
-- [x] Stage 0
-- [x] Stage 1
-- [ ] Stage 2
-- [ ] Stage 3
-- [ ] Stage 4
+- [x] Stage 0 - Feb
+- [x] Stage 1 - April
+- [ ] Stage 2 - June
+- [ ] Stage 3 - August
+- [ ] Stage 4 - September
+
+The progessional discussion will cover only 20 of the KSB's across 8 Themes. 
+
+
 
 8 Assesment Themes 📊
 

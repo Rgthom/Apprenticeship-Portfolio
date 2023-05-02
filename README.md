@@ -19,7 +19,7 @@ Portfolio Template [here](https://github.com/Rgthom/Apprenticeship-Portfolio/blo
 
 *EPA Review
 <br>
-*EPA gateway Submission 
+*EPA Gateway Submission 
 
 
 <br><br>

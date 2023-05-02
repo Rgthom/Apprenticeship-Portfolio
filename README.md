@@ -17,8 +17,8 @@ Portfolio Template [here](https://github.com/Rgthom/Apprenticeship-Portfolio/blo
 - [ ] Stage 4 - December*
 
 
-* EPA Review
-* EPA gateway Submission 
+*EPA Review
+*EPA gateway Submission 
 
 
 <br><br>

@@ -10,14 +10,14 @@ Portfolio Template [here](https://github.com/Rgthom/Apprenticeship-Portfolio/blo
 
 - [x] Stage 0 - Feb
 - [x] Stage 1 - April
-- [ ] Stage 2 - August ~1~
+- [ ] Stage 2 - August*
 - [ ] Stage 3 - September
 - [ ] Stage 4 - December*
 
 1. EPA Review
 2. EPA gateway Submission 
 
-The progessional discussion will cover only 20 of the KSB's across 8 Themes. 
+The progessional discussion will cover only 20 of the [KSB's](https://github.com/Rgthom/Apprenticeship-Portfolio/blob/f5e3c8220e70fa59c86307d892dfc305362e4076/KSBs%20DevOps%20Engineer%20L4%20Duties%20KSBs%20and%20Assessment%20Methods%20.xlsx) across 8 Themes. 
 
 
 

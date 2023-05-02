@@ -10,7 +10,7 @@ Portfolio Template [here](https://github.com/Rgthom/Apprenticeship-Portfolio/blo
 
 - [x] Stage 0 - Feb
 - [x] Stage 1 - April
-- [ ] Stage 2 - August ^1^
+- [ ] Stage 2 - August X^2^
 - [ ] Stage 3 - September
 - [ ] Stage 4 - December ^2^
 
